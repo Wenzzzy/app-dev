@@ -1,6 +1,6 @@
 # **APPLICATION DEVELOPMENT BSIT - 301**
 ## **STI COLLEGE STA CRUZ**
-### I am Wency Joy Estera and reside in Majayjay, Laguna. At 20 years old, I am a third-year student at STI College of Sta. Cruz, Laguna. I believe in embracing life's fullness while adhering to boundaries. Driven by a continuous quest for self-improvement, I eagerly anticipate a future marked by success and fulfillment. 
+ I am Wency Joy Estera and reside in Majayjay, Laguna. At 20 years old, I am a third-year student at STI College of Sta. Cruz, Laguna. I believe in embracing life's fullness while adhering to boundaries. Driven by a continuous quest for self-improvement, I eagerly anticipate a future marked by success and fulfillment. 
 
 ### **My Goals Checklist**
 - [x] Get better every year
